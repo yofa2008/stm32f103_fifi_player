@@ -1,0 +1,16 @@
+.\output\fsmc_lcd.o: TFT\fsmc_lcd.c
+.\output\fsmc_lcd.o: TFT\fsmc_lcd.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_lib.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_map.h
+.\output\fsmc_lcd.o: ..\OOPY_MUSIC_PLAYER_PCM1793_003\stm32f10x_conf.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_type.h
+.\output\fsmc_lcd.o: .\library\inc\cortexm3_macro.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_adc.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_dma.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_flash.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_fsmc.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_gpio.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_nvic.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_rcc.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_sdio.h
+.\output\fsmc_lcd.o: .\library\inc\stm32f10x_spi.h

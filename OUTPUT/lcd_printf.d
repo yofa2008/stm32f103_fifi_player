@@ -1,0 +1,9 @@
+.\output\lcd_printf.o: TFT\LCD_Printf.c
+.\output\lcd_printf.o: TFT\../tft/tft_otm3225.h
+.\output\lcd_printf.o: TFT\../tft/../fatfs/ff.h
+.\output\lcd_printf.o: TFT\../tft/../fatfs/integer.h
+.\output\lcd_printf.o: .\library\inc\stm32f10x_type.h
+.\output\lcd_printf.o: TFT\../tft/../fatfs/ffconf.h
+.\output\lcd_printf.o: TFT\../tft/../MyType.h
+.\output\lcd_printf.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\output\lcd_printf.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h

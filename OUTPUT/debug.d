@@ -1,0 +1,10 @@
+.\output\debug.o: BOARD_SZ_LIB\debug.c
+.\output\debug.o: BOARD_SZ_LIB\debug.h
+.\output\debug.o: .\library\inc\stm32f10x_rcc.h
+.\output\debug.o: .\library\inc\stm32f10x_map.h
+.\output\debug.o: ..\OOPY_MUSIC_PLAYER_PCM1793_003\stm32f10x_conf.h
+.\output\debug.o: .\library\inc\stm32f10x_type.h
+.\output\debug.o: .\library\inc\cortexm3_macro.h
+.\output\debug.o: .\library\inc\stm32f10x_usart.h
+.\output\debug.o: .\library\inc\stm32f10x_gpio.h
+.\output\debug.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
